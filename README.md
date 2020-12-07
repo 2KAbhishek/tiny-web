@@ -1,44 +1,33 @@
-# BareMinimum
+# tiny-web
 
-![Size](https://img.shields.io/github/repo-size/2kabhishek/BareMinimum?style=plastic&color=0f0&label=Size)
-![Updated](https://img.shields.io/github/last-commit/2kabhishek/BareMinimum?style=plastic&color=f00&label=Updated)
-![Stars](https://img.shields.io/github/stars/2kabhishek/BareMinimum?style=plastic&color=ffc801&label=Stars)
-![Forks](https://img.shields.io/github/forks/2kabhishek/BareMinimum?style=plastic&color=003cff&label=Forks)
-![Watchers](https://img.shields.io/github/watchers/2kabhishek/BareMinimum?style=plastic&color=ff5500&label=Watchers)
-![Contributors](https://img.shields.io/github/contributors/2kabhishek/BareMinimum?style=plastic&color=f0f&label=Contributors)
-![License](https://img.shields.io/github/license/2kabhishek/BareMinimum?style=plastic&color=555&label=License)
+![Size](https://img.shields.io/github/repo-size/2kabhishek/tiny-web?style=plastic&color=0f0&label=Size)
+![Updated](https://img.shields.io/github/last-commit/2kabhishek/tiny-web?style=plastic&color=f00&label=Updated)
+![Stars](https://img.shields.io/github/stars/2kabhishek/tiny-web?style=plastic&color=ffc801&label=Stars)
+![Forks](https://img.shields.io/github/forks/2kabhishek/tiny-web?style=plastic&color=003cff&label=Forks)
+![Watchers](https://img.shields.io/github/watchers/2kabhishek/tiny-web?style=plastic&color=ff5500&label=Watchers)
+![Contributors](https://img.shields.io/github/contributors/2kabhishek/tiny-web?style=plastic&color=f0f&label=Contributors)
+![License](https://img.shields.io/github/license/2kabhishek/tiny-web?style=plastic&color=555&label=License)
 
-BareMinimum is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+Tired of the hundreds of tools for building a website?
 
-## Prerequisites
+Want to build good ol web pages with `HTML` `CSS` & `JavaScript`?
 
-Before you begin, ensure you have met the following requirements:
+You can of course do that, tiny-web just makes it quicker, let your digital paintbrush loose and make something tiny.
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+tiny-web is a web app that allows `<insert_target_audience>` to `<action/task_it_does>`.
 
-## Installing BareMinimum
+## Getting tiny-web
 
-To install BareMinimum, follow these steps:
-
-```bash
-git clone https://github.com/2kabhishek/BareMinimum
-cd BareMinimum
-<install_command>
-```
-
-## Using BareMinimum
+To install tiny-web, follow these steps:
 
 ```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description. Options are: a, b. [default: a]
-
+git clone https://github.com/2kabhishek/tiny-web
+cd tiny-web
 ```
+
+## Viewing tiny-web
+
+Open `index.html` in your favourite browser or visit [2kabhishek.github.io/tiny-web](https://2kabhishek.github.io/tiny-web).
 
 ### To-Do
 

@@ -18,7 +18,7 @@ tiny-web is a web app that allows `<insert_target_audience>` to `<action/task_it
 
 ## Getting tiny-web
 
-To install tiny-web, follow these steps:
+To get tiny-web, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/tiny-web

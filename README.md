@@ -26,7 +26,7 @@
 <h3>Short sweet headline with 🎇🎉</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/tiny-web/main/images/screenshot.jpg" alt="tiny-web screenshot" style="width:100%">
+  <img src= "images/screenshot.jpg" alt="tiny-web screenshot" style="width:100%">
   <br/>
   <figcaption>tiny-web screenshot</figcaption>
 </figure>

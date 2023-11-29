@@ -30,8 +30,6 @@
 
 </div>
 
-## What is this
-
 tiny-web is a web app that allows `<insert_target_audience>` to `<action/task_it_does>`.
 
 Tired of the hundreds of tools for building a website?
@@ -40,17 +38,21 @@ Want to build good ol web pages with `HTML` `CSS` & `JavaScript`?
 
 You can of course do that, tiny-web just makes it quicker, let your digital paintbrush loose and make something tiny.
 
-## Inspiration
+## ✨ Features
 
-tiny-web was inspired by `<reason/idea>`.
+- Build with Good ol' `HTML` `CSS`&`JavaScript`
+- No boilerplate needed
+- Ready made docs
+- Works with [mkrepo](https://github.com/2kabhishek/mkrepo)
 
-## Prerequisites
+## ⚡ Setup
 
-Before you begin, ensure you have met the following requirements:
+### ⚙️ Requirements
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- foo >= bar
+- bazz
 
-## Getting tiny-web
+### 💻 Installation
 
 To get tiny-web, follow these steps:
 
@@ -59,39 +61,56 @@ git clone https://github.com/2kabhishek/tiny-web
 cd tiny-web
 ```
 
-## Viewing tiny-web
+## 🚀 Usage
 
 Open `index.html` in your favorite browser or visit [2kabhishek.github.io/tiny-web](https://2kabhishek.github.io/tiny-web).
 
-## How it was built
-
-tiny-web was built using `HTML` `CSS` & `JavaScript`.
-
-## Challenges faced
-
-While building tiny-web the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building tiny-web I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
+## 🏗️ What's Next
 
 Planning to add `<feature/module>`.
 
-### To-Do
+### ✅ To-Do
 
 - [x] Setup repo
 - [ ] Think real hard
 - [ ] Start typing
-- [ ] Finish it
 
-Hit the ⭐ button if you found this useful.
+## 🧑‍💻 Behind The Code
 
-## More Info
+### 🌈 Inspiration
+
+tiny-web was inspired by `<reason/idea>`.
+
+tiny-web was built using `HTML` `CSS` & `JavaScript`.
+
+### 💡 Challenges/Learnings
+
+- The main challenges were `<issue/difficulty>`
+- I learned about `<learning/accomplishment>`
+
+### 🧰 Tooling
+
+- [dots2k](https://github.com/2kabhishek/dots2k) — Dev Environment
+- [nvim2k](https://github.com/2kabhishek/nvim2k) — Personalized Editor
+- [sway2k](https://github.com/2kabhishek/sway2k) — Desktop Environment
+- [qute2k](https://github.com/2kabhishek/qute2k) — Personalized Browser
+
+### 🔍 More Info
+
+- [bare-minimum](https://github.com/2kabhishek/bare-minimum) — General purpose template
+- [shelly](https://github.com/2kabhishek/shelly) — Command line template
+
+<hr>
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/tiny-web">Source</a> | <a href="https://2kabhishek.github.io/tiny-web">Website</a>
+<strong>⭐ hit the star button if you found this useful ⭐</strong><br>
+
+<a href="https://github.com/2KAbhishek/tiny-web">Source</a>
+| <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
+| <a href="https://twitter.com/2kabhishek" target="_blank">Twitter </a>
+| <a href="https://linkedin.com/in/2kabhishek" target="_blank">LinkedIn </a>
+| <a href="https://2kabhishek.github.io/links" target="_blank">More Links </a>
+| <a href="https://2kabhishek.github.io/projects" target="_blank">Other Projects </a>
 
 </div>
